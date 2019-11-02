@@ -2,7 +2,7 @@
 
 An example project that accompanies my tutorial on using Azure Functions Java and Pusher Beams for iOS Notifications.
 
-https://pusher.com/tutorials/azure-python-ios-notifications
+http://pusher.com/tutorials/azure-function-python-ios-notifications
 
 ## Getting Started
 
